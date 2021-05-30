@@ -405,6 +405,7 @@
 - [Count of Digits](math/count_of_digits.py)
 - [Lucky Numbers](math/Lucky_Numbers.py)
 - [Perfect square less than n](math/Perfect_square.py)
+- [Pronic Number](math/pronic_number.py)
 - [Perfect Number](math/Perfect_Number.py)
 - [Harshad Number](math/HarshadNumber.py)
 - [Roots of Quadratic Equation](math/roots_of_quadratic_equation.py)
